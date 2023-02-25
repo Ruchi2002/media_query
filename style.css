@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+}
+@media screen and (max -width: 1920px) {
+  body {
+    background-color: aqua;
+  }
+}
+/* frame 2 */
+@media screen and (max-width: 1440px) {
+  body {
+    background-color: green;
+  }
+}
+/* frame 3*/
+@media screen and (max-width: 1024px) {
+  body {
+    background-color: #b0882f;
+  }
+}
+/* frame 4 */
+@media screen and (max-width: 768px) {
+  body {
+    background-color: aquamarine;
+  }
+}
+/* frame 5 */
+@media screen and (max-width: 425px) {
+  body {
+    background-color: #ca3142;
+  }
+}
